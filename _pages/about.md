@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gözde Gül Sahin"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Gözde Gül (İşgüder) Şahin
-======
 ![](/images/name.png)
+======
 
 I try to push the boundaries of natural language processing research by means of democratizing it (i.e., multilingual approaches and open access tools/datasets for world's languages) and developing machine learning models for natural language understanding and generation. My research interests include -- _but not limited to_ -- morphology, semantics, low-resource languages and interpretability.
 
