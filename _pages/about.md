@@ -18,8 +18,8 @@ Currently, I am a postdoctoral researcher at [UKP](https://www.informatik.tu-dar
 * Gözde Gül Şahin, Yova Kementchedjhieva, Phillip Rust, Iryna Gurevych. PuzzLing Machines: A Challenge on Learning From Small Data. _In Proceedings of ACL 2020._[[pdf]](https://www.aclweb.org/anthology/2020.acl-main.115.pdf)[[website]](https://ukplab.github.io/PuzzLing-Machines/)
 * Gözde Gül Şahin, Iryna Gurevych. Two Birds with One Stone: Investigating Invertible Neural Networks for Inverse Problems in Morphology. _In Proceedings of AAAI 2020._
 [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6286/6142)
-* Gözde Gül Şahin, Clara Vania, Ilia Kuznetsov, Iryna Gurevych. LINSPECTOR: Multilingual Probing Tasks for Word Representations. _(To appear in Computational Linguistics Journal, June 2020 & To be presented in ACL 2020.)_
-[[pdf]](https://arxiv.org/pdf/1903.09442.pdf)[[code]](https://github.com/UKPLab/linspector)
+* Gözde Gül Şahin, Clara Vania, Ilia Kuznetsov, Iryna Gurevych. LINSPECTOR: Multilingual Probing Tasks for Word Representations. _(Computational Linguistics Journal, June 2020 & To be presented in ACL 2020.)_
+[[pdf]](https://www.mitpressjournals.org/doi/full/10.1162/coli_a_00376?mobileUi=0)[[code]](https://github.com/UKPLab/linspector)
 * Max Eichler, Gözde Gül Şahin, Iryna Gurevych. LINSPECTOR WEB: A Multilingual Probing Suite for Word Representations. _In Proceedings of EMNLP 2019: System Demonstrations._ 
 [[pdf]](https://www.aclweb.org/anthology/D19-3022.pdf)[[website]](https://linspector.ukp.informatik.tu-darmstadt.de/)[[cite]](https://www.aclweb.org/anthology/D19-3022.bib)[[code]](https://github.com/UKPLab/linspector-web)
 * Steffen Eger, Gözde Gül Şahin, Andreas Rücklé, Ji-Ung Lee, Claudia Schulz, Mohsen Mesgar, Krishnkant Swarnkar, Edwin Simpson, Iryna Gurevych. Text Processing Like Humans Do: Visually Attacking and Shielding NLP Systems. _In Proceedings of NAACL-HLT 2019._
