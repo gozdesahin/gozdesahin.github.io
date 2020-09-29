@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
-
-I try to push the boundaries of natural language processing research by means of building machine learning models and open access tools/datasets for world's languages. In particular, my research interests include -- _but not limited to_ -- morphology, semantics, low-resource languages and interpretability.
-
+My goal is to push the boundaries of natural language processing research by means of building machine learning models and open access tools/datasets for world's languages. In particular, my research interests include -- _but not limited to_ -- morphology, semantics, low-resource languages and interpretability.
 
 Currently, I am a postdoctoral researcher at [UKP](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in [Technical University of Darmstadt](https://www.tu-darmstadt.de/index.en.jsp), working with [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/prof_dr_iryna_gurevych/index.en.jsp). Before that, I got my PhD degree from [Computer Engineering Department](http://www.cs.itu.edu.tr/en/homepage) in Istanbul Technical University, where I was supervised by [Prof. Eşref Adalı](http://adalı.com/?page_id=4221&lang=en) and was an active member of [İTÜ NLP group](https://nlp.itu.edu.tr/). During my PhD studies, I've visited [Institute for Language, Cognition and Computation (ILCC)](http://web.inf.ed.ac.uk/ilcc), where I worked with [Prof. Mark Steedman](http://homepages.inf.ed.ac.uk/steedman/).     
 
